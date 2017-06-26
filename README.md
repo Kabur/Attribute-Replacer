@@ -1,0 +1,1 @@
+Tool to recursively replace chosen file attributes in files in specified folder and its sub-folders. Main usage: updating mp3 'album' attribute to the name of the folder
